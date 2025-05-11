@@ -1,0 +1,47 @@
+https://testnets.opensea.io/0x72A331333FE19D2f165a4aBFD77B048B051916F7
+
+https://testnets.opensea.io/assets/sepolia/0x9af30c191002f51663b99dd347cc942c880ba330/2
+
+{
+    "tokenId": 2,
+    "coachName": "LeBron James",
+    "trainingDateTime": "2025-06-20T14:00:00Z",
+    "description": "Elite basketball skills and leadership clinic led by LeBron James.",
+    "location": "Los Angeles, CA, USA"
+}
+
+https://testnets.opensea.io/assets/sepolia/0x9af30c191002f51663b99dd347cc942c880ba330/3
+
+{
+    "tokenId": 3,
+    "coachName": "Tony Robbins",
+    "trainingDateTime": "2025-06-25T09:00:00Z",
+    "description": "High-impact life-coaching masterclass with Tony Robbins.",
+    "location": "New York, NY, USA"
+}
+
+https://testnets.opensea.io/assets/sepolia/0x9af30c191002f51663b99dd347cc942c880ba330/4
+
+{
+    "tokenId": 4,
+    "coachName": "Gordon Ramsay",
+    "trainingDateTime": "2025-07-02T11:00:00Z",
+    "description": "Hands-on culinary techniques workshop with Gordon Ramsay.",
+    "location": "London, UK"
+  }
+
+https://testnets.opensea.io/assets/sepolia/0x9af30c191002f51663b99dd347cc942c880ba330/5
+
+{
+    "tokenId": 5,
+    "coachName": "Usain Bolt",
+    "trainingDateTime": "2025-07-08T08:00:00Z",
+    "description": "Sprint mechanics and acceleration drills with Usain Bolt.",
+    "location": "Kingston, Jamaica"
+}
+
+
+0x36cecc95842dcd46664b477ae6698a8cad8474304fd6c29fa17736c910292c72
+0x542ffd4fc8deb88df39234a448f6096a4f1e81131749986f59c5c321962d985d
+0x454f98119cf295c28b1ecbe7676cf9398f6562bbc4dfef86418bd1769ae4817a
+0x841e58fd9592513e0016cd5db5b1ef4581d0939f47e56a12b8b192ce4c05418e

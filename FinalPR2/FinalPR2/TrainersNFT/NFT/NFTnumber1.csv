@@ -1,0 +1,11 @@
+{
+"  ""name"": ""Training with Coach Mike"","
+"  ""description"": ""Exclusive 1-on-1 training with Coach Mike at Muscle Gym"","
+"  ""image"": ""ipfs://<IMAGE_CID>"","
+"  ""attributes"": ["
+"    { ""trait_type"": ""Coach"", ""value"": ""Mike Johnson"" },"
+"    { ""trait_type"": ""Date"", ""value"": ""2025-06-15"" },"
+"    { ""trait_type"": ""Time"", ""value"": ""10:00 AM"" },"
+"    { ""trait_type"": ""Location"", ""value"": ""Muscle Gym, LA"" }"
+  ]
+}
